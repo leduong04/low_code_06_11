@@ -10,11 +10,11 @@
   "pages": [
     {
       "id": "Page1",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "Movies",
-      "isDefault": true
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
